@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @midnightwine
 - 👀 I’m interested in getting better at coding
-- 🌱 I’m currently learning python adn I want to learn C++ soon
+- 🌱 I’m currently learning python and I want to learn C++ soon
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me (do not attempt)
 
