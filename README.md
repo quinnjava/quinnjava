@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quinnjava
+- 👋 Hi, I’m @midnightwine
 - 👀 I’m interested in getting better at coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
